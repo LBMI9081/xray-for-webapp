@@ -11,7 +11,6 @@
 * 部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 或者 worker 解决。
 
 
-
 ## 鸣谢
 
 ifeng 的 v2ray 项目：https://github.com/hiifeng
